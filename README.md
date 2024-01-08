@@ -1,1 +1,2 @@
 # odin-recipes
+I'm going to attempt to make a recipe website, my first project while following the Odin Project course. Having done this, it means I understood the basic concepts of what we covered so far with HTML in regards to setting up the boilerplate, creating paragraphs and lists, how to emphasis text, and add images that also can link back to other pages, whether it be from different sites or my own.
